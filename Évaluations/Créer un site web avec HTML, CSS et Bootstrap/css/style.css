@@ -122,10 +122,7 @@ h3 {
 
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-	.btn-custom {
-		margin: 10px 15px;
-		font-size: 1em;
-	}
+	
 }
 
 /* Small devices (landscape phones, less than 768px) */
@@ -134,9 +131,6 @@ h3 {
 		font-size: 3em; 
 	}
 
-	.btn-custom {
-		margin: 10px 15px;		
-	}
 }
 
 /* Medium devices (tablets, less than 992px) */
